@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisgfx9
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on anything i guess
 - 📫 How to reach me over at instagram at @krisgfx or just google krisgfx and contact me on any of the platforms
 
